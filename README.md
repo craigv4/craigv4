@@ -13,15 +13,15 @@ You can click the Preview link to take a look at your changes.
 
 <p align="center">
 - 🔭 I’m currently working on [100 Days of Code](https://github.com/craigv4/100DaysOfCode_webdev)
-
+</p><p align="center">
 - 🌱 I’m currently learning **Web Dev, HTML, CSS, Javascript**
-
+</p><p align="center">
 - 👯 I’m looking to collaborate on **Open Source and Web Dev Projects**
-
+</p><p align="center">
 - 🤝 I’m looking for help with **Open Source projects**
-
+</p><p align="center">
 - 👨‍💻 All of my projects are available at [https://github.com/craigv4](https://github.com/craigv4)
-
+</p><p align="center">
 - 📫 How to reach me **chiragssuthar@gmail.com**
 </p>
 <h3 align="center">Connect with me:</h3>
