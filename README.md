@@ -11,6 +11,7 @@ You can click the Preview link to take a look at your changes.
 
 <p align="center"> <a href="https://twitter.com/craig_codes_17" target="blank"><img src="https://img.shields.io/twitter/follow/craig_codes_17?logo=twitter&style=for-the-badge" alt="craig_codes_17" /></a> </p>
 
+<p align="center">
 - 🔭 I’m currently working on [100 Days of Code](https://github.com/craigv4/100DaysOfCode_webdev)
 
 - 🌱 I’m currently learning **Web Dev, HTML, CSS, Javascript**
@@ -22,7 +23,7 @@ You can click the Preview link to take a look at your changes.
 - 👨‍💻 All of my projects are available at [https://github.com/craigv4](https://github.com/craigv4)
 
 - 📫 How to reach me **chiragssuthar@gmail.com**
-
+</p>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://twitter.com/craig_codes_17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="craig_codes_17" height="30" width="40" /></a>
