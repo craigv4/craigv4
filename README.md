@@ -9,7 +9,7 @@
 
 <div align="center">
 
-🎓 I have a Post Graduate Degree in Finance and currenly working as a Data Analyst Post
+🎓 I have a Post Graduate Degree in Finance and currenly working as a Data Analyst
 
 🌱 I’m currently learning **Web Dev** and taking the challenge [100 Days of Code](https://github.com/craigv4/100DaysOfCode_webdev)
 
@@ -32,7 +32,7 @@
 
 <br>
 
-# 📊 GitHub Stats:
+# 💹 GitHub Stats:
 
 ![](https://github-readme-stats.vercel.app/api?username=craigv4&theme=onedark&hide_border=false&include_all_commits=true&count_private=true)
 
@@ -53,14 +53,15 @@
 ## 🐦 Latest Tweet
 [![](https://gtce.itsvg.in/api?username=craig_codes_17)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
 
-### ✍️ Random Dev Quote
+## ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-### 🔝 Top Contributed Repo
+## 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=craigv4&limit=5&theme=onedark&combine_all_yearly_contributions=true)
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/craig_v4#9005) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/craig_v4) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/chirag-suthar-6209a3260) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/craig_codes_17)
 
 </div>
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
